@@ -1,0 +1,10 @@
+target/*
+ipchecker.properties
+ipchecker.sqlite.db
+nb-configuration.xml
+nbactions.xml
+dependency-reduced-pom.xml
+.DS_Store
+.sync/ID
+.sync/IgnoreList
+.sync/StreamsList
